@@ -1,0 +1,23 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "Mocha Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeMeLwin/mochaTest.git"
+  },
+  "author": "Me Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeMeLwin/mochaTest/issues"
+  },
+  "homepage": "https://github.com/MeMeLwin/mochaTest#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
